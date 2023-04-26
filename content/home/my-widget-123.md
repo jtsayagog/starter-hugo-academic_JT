@@ -1,5 +1,5 @@
 ---
-widget: https://juansayago.netlify.app/#about
+widget: https://tiny-marshmallow-3cf59e.netlify.app/
 widget_id: my-widget-123
 headless: true
 weight: 10
